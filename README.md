@@ -25,4 +25,5 @@
 <img width="682" height="326" alt="image" src="https://github.com/user-attachments/assets/dee4a12e-83c9-494d-94ac-c393973f1a16" />
 
 종료
+
 <img width="585" height="174" alt="image" src="https://github.com/user-attachments/assets/27cb2ce3-8c15-4168-9017-cf8bdd08d961" />
